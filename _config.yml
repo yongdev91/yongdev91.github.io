@@ -1,14 +1,14 @@
-title:             Yong Blog
-email:             ///
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             Yong의 개발블로그
+email:             yongdev91@gmail.com
+description:       Yong의 개발블로그
+author:            Yong
 baseurl:           ""
 url:               "http://yongdev91.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+#twitter_username:  SBootstrap
+github_username:   yongdev91
+#facebook_username: StartBootstrap
 
 # Build settings
 markdown:          kramdown
