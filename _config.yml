@@ -2,7 +2,7 @@ title:             Yong Blog
 email:             ///
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
+baseurl:           "/"
 url:               "http://yongdev91.github.io"
 
 # Social Profiles
